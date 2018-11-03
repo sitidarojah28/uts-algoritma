@@ -6,12 +6,16 @@
 Alur Algoritmanya.
 
 -Mendeklarasikan int x,y,a,b,progres.
+
 -Program mulai berjalan dengan membaca nilai input a dan b
+
 -nilai a=x dan b=y
+
 -Mendeklarasikan nilai (x!=y) jika bernilai benar maka akan dibandingkan (x<y)
 	jika x<y maka nilai x+a
 	jika y<x maka nilai y+b
 -sampai nilai x=y
+
 -jika nilai x!=y bernilai salah maka program akan mencetak nilai x dan programpun berhenti.
 
 *Berikut kode lengkapnya
@@ -57,9 +61,13 @@ int main()
 Alur algoritmanya
 
 -mendeklarasikan int T,X,N,Batas
+
 -mendeklarasikan variabel T,X sebagai penyimpan nilai
+
 -mendeklarasikan variabel N sebagai inputan
+
 -mendeklarsikan variabel Batas sebagai perulangan.
+
 -Membuat perbandingan untuk perulangan 
 	while ( T<= Batas)
 	T=N+X
