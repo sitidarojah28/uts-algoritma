@@ -2,6 +2,7 @@
 
 
 #latihan1# Menentukan nilai perulangan
+
 Alur Algoritmanya.
 
 -Mendeklarasikan int x,y,a,b,progres.
@@ -52,6 +53,7 @@ int main()
 
 
 #latihan2 #Menentukan nilai perulangan dan menentukan nilai NIM
+
 Alur algoritmanya
 
 -mendeklarasikan int T,X,N,Batas
