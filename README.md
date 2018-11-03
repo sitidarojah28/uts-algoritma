@@ -3,6 +3,7 @@
 
 #latihan1# Menentukan nilai perulangan
 Alur Algoritmanya.
+
 -Mendeklarasikan int x,y,a,b,progres.
 -Program mulai berjalan dengan membaca nilai input a dan b
 -nilai a=x dan b=y
@@ -50,8 +51,9 @@ int main()
 ![img](https://github.com/sitidarojah28/uts-algoritma/blob/master/latihan1/hasil2.png)
 
 
-#atihan2 #Menentukan nilai perulangan dan menentukan nilai NIM
+#latihan2 #Menentukan nilai perulangan dan menentukan nilai NIM
 Alur algoritmanya
+
 -mendeklarasikan int T,X,N,Batas
 -mendeklarasikan variabel T,X sebagai penyimpan nilai
 -mendeklarasikan variabel N sebagai inputan
