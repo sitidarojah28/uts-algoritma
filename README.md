@@ -1,22 +1,25 @@
 # uts-algoritma
 
+
+#latihan1# Menentukan nilai perulangan
 Alur Algoritmanya.
 -Mendeklarasikan int x,y,a,b,progres.
--Program mulai berjalan dengan membaca nilai inputan a dan b
+-Program mulai berjalan dengan membaca nilai input a dan b
 -nilai a=x dan b=y
--Mendeklarasikan nilai (x!=y) jika bernilai benar maka akan dibandingkand (x<y)
+-Mendeklarasikan nilai (x!=y) jika bernilai benar maka akan dibandingkan (x<y)
 	jika x<y maka nilai x+a
 	jika y<x maka nilai y+b
--sampai nilai x==y
+-sampai nilai x=y
 -jika nilai x!=y bernilai salah maka program akan mencetak nilai x dan programpun berhenti.
-Berikut kode lengkapnya
+
+*Berikut kode lengkapnya
 
 int main()
 {
     int x,y,a,b,progres;
-    cout<< " Masukan Nilai A :";
+    cout<< " Masukan nilai a :";
     cin>> a;
-    cout<< " Masukan Nilai B :";
+    cout<< " Masukan nilai b :";
     cin>> b;
     progres= true;
     x=a;
@@ -40,15 +43,19 @@ int main()
            }
     }
     cout<< x;
+	return 0;
 }
+
 ![img](https://github.com/sitidarojah28/uts-algoritma/blob/master/latihan1/hasil1.png)
 ![img](https://github.com/sitidarojah28/uts-algoritma/blob/master/latihan1/hasil2.png)
 
+
+#atihan2 #Menentukan nilai perulangan dan menentukan nilai NIM
 Alur algoritmanya
--mendeklrasikan int T,X,N,Batas
--mendeklrasikan variabel T,X sebagai penyimpan nilai
--mendelrasikan variabel N sebagai inputan
--mendeklrsikan variabel Batas sebagai perulangan.
+-mendeklarasikan int T,X,N,Batas
+-mendeklarasikan variabel T,X sebagai penyimpan nilai
+-mendeklarasikan variabel N sebagai inputan
+-mendeklarsikan variabel Batas sebagai perulangan.
 -Membuat perbandingan untuk perulangan 
 	while ( T<= Batas)
 	T=N+X
@@ -72,5 +79,6 @@ int main()
         X=X+10;
     }
     cout << "Hasilnya Adalah :" << T;
+	return 0;
 }
 ![img](https://github.com/sitidarojah28/uts-algoritma/blob/master/latihan2/hasil3.png)
